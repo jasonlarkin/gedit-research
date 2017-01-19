@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=research
+IAge=3
+Name=Research
+Description=Helps you research
+Authors=Jason Larkin <jasonlarkin94@gmail.com>
+Copyright=Copyright © 2016 Jason Larkin <jasonlarkin94@gmail.com>
+Website=https://github.com/jasonlarkin/gedit-research
